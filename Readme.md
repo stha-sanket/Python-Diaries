@@ -24,5 +24,9 @@ Python is  super versatile and used in the following areas:
    - For Linux: Python is often pre-installed, but you can install or update it using your package manager (sudo apt install python).
    - You can verify the installation by opening Command Prompt and typing:
     ```bash
-   python --version```
+   python --version
 
+## Picking an IDE(Integrated Development Environment)
+- an IDE is an environment where we are able to write, test, debug and run our code
+- for python there are great IDE like VScode(recommended), Pycharm, Anaconda,etc
+- **Remember** any file that you want to code with python should have .py extension at the end of the file name
