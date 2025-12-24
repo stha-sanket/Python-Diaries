@@ -4,3 +4,7 @@ print('hello world')
 
 # To run type python Starting_Python.py in the terminal with the same folder open
 # If you are facing issues type ls or dir to see all the files if you can see your .py file then you are doing good
+
+# learning comments:
+# if you ran our code you might have not seen the lines that have "#" these are line called comment
+# use to document and explain user about the code
