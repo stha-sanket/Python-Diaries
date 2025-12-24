@@ -8,3 +8,13 @@ print('hello world')
 # learning comments:
 # if you ran our code you might have not seen the lines that have "#" these are line called comment
 # use to document and explain user about the code
+
+#methods to comment:
+# hastag method used to comment a single line or multipel line
+#Docstrings
+"""
+    This a commend made with " or ' *3 times to act as a comment
+    - they are used for documenting your code then commenting
+    """
+
+# also try better comments extension in vscode to have better comment color code
